@@ -8,6 +8,10 @@
                 opacity: 0.8;
             }
             
+            title {
+                font-family: 'Roboto', sans-serif;
+            }
+            
             .navbar-toggler {
                 width: 47px;
                 height: 34px;
@@ -24,9 +28,6 @@
             html {
                 margin-right: 0;
             }
-            /* .animate {
-        animation: pulse 5s ease-out alternate, nudge 7s ease-out alternate;
-    } */
             
             #headingGroup {
                 text-align: center;
@@ -245,15 +246,6 @@
                 color: #ed687c;
             }
             
-            #linkedIn {
-                /* position: fixed;
-            top: 4.5%;
-            right: 15%;
-            -webkit-transform: translateY(-50%);
-            -ms-transform: translateY(-50%);
-            transform: translateY(-50%); */
-            }
-            
             #mainNavbar .nav-link {
                 color: #000000;
                 font-family: 'Lobster', cursive;
@@ -285,7 +277,7 @@
                 font-size: 1.5rem;
             }
             
-            img{
+            img {
                 width: 100%;
             }
             /* For pop up */
