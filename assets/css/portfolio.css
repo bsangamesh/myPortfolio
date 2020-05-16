@@ -104,9 +104,9 @@
             }
             
             .me {
-                /* background: #FFD700 center center / cover no-repeat fixed; */
+                background: goldenrod center center / cover no-repeat fixed;
                 /* background: #0b0424 center center / cover no-repeat fixed; */
-                background: url('me.jpg') center center / cover no-repeat fixed;
+                /* background: url('me.jpg') center center / cover no-repeat fixed; */
                 height: 800px;
                 /* You must set a specified height */
                 opacity: 0.9;
